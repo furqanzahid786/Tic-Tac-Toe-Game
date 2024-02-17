@@ -9,7 +9,6 @@ This web application implements the classic game of Tic Tac Toe using JavaScript
 Getting Started: Open the index.html file in your web browser to start the game.
 Gameplay: Players take turns clicking on an empty cell to place their symbol. The first player is 'X', and the second player is 'O'.
 Win Condition: The game automatically detects when a player achieves three of their symbols in a row, column, or diagonal. The game will declare the winner and end the game.
-Draw Condition: If all cells are filled and no player achieves a winning condition, the game ends in a draw.
 Restart: After the game ends, you can restart the game by clicking the "Restart" button.
 
 <h3>Features:</h3>
